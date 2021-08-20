@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning software engingeering
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me sabir paan shop karachi
+- 📫 muhammadabdulhai504@gmail.com
 
 <!---
 ABDULHAI10/ABDULHAI10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
