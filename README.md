@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ABDULHAI10
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning software engingeering
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 muhammadabdulhai504@gmail.com
+👋 Hi, I’m @ABDULHAI10 (Muhammad Abdul Hai)
 
-<!---
-ABDULHAI10/ABDULHAI10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 I’m a Software Engineer with experience in development.  
+📊 Currently expanding my skillset through a Data Analytics & Data Science Bootcamp (AtomCamp), focused on Python, Power BI, SQL, and Machine Learning.  
+🌍 Passionate about solving real-world problems with clean code and insightful dashboards.  
+🔧 Tools I work with: C#, ASP.NET, Blazor, SQL, Power BI, Python, Pandas, and Git.  
+🚀 Open to collaborating on meaningful open-source and data-driven projects.  
+📫 Reach me at: muhammadabdulhai504@gmail.com
