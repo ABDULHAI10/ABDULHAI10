@@ -5,6 +5,7 @@
 🌍 Passionate about solving real-world problems with clean code and insightful dashboards.  
 🔧 Tools I work with: C#, ASP.NET, Blazor, SQL, Power BI, Python, Pandas, and Git.  
 🚀 Open to collaborating on meaningful open-source and data-driven projects.  
+
 📫 Reach me at: muhammadabdulhai504@gmail.com
 
 # 👋 Hi there, I'm Muhammad Abdul Hai 🇨🇦  
@@ -37,7 +38,9 @@ I enjoy transforming complex datasets into **insightful dashboards** and buildin
 🌎 Seeking opportunities in **Canada’s tech and analytics industry** to apply my skills in real-world settings.  
 
 ### 📫 Contact  
+
 📧 **Email:** [muhammadabdulhai504@gmail.com](mailto:muhammadabdulhai504@gmail.com)  
+
 🔗 **LinkedIn:** [linkedin.com/in/muhammadabdulhai]([https://linkedin.com/in/muhammadabdulhai](https://www.linkedin.com/in/muhammad-abdul-hai-50344322a/) 
 
 🐙 **GitHub:** [github.com/ABDULHAI10](https://github.com/ABDULHAI10)  
