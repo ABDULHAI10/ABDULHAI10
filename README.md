@@ -11,10 +11,8 @@
 # 👋 Hi there, I'm Muhammad Abdul Hai 🇨🇦  
 
 💻 **Software Engineer | Data Analyst | Power BI Developer**  
-
 I'm a results-driven **Software Engineer** with hands-on experience in **.NET development** and a growing specialization in **Data Analytics & Data Science**.  
 Currently enrolled in AtomCamp’s **Data Science Bootcamp**, enhancing my skills in **Python, Power BI, SQL, and Machine Learning**.  
-
 I enjoy transforming complex datasets into **insightful dashboards** and building **efficient, scalable software solutions** that solve real-world business challenges.  
 
 ### 🧰 Tech Stack & Tools  
@@ -38,11 +36,8 @@ I enjoy transforming complex datasets into **insightful dashboards** and buildin
 🌎 Seeking opportunities in **Canada’s tech and analytics industry** to apply my skills in real-world settings.  
 
 ### 📫 Contact  
-
 📧 **Email:** [muhammadabdulhai504@gmail.com](mailto:muhammadabdulhai504@gmail.com)  
-
-🔗 **LinkedIn:** [linkedin.com/in/muhammadabdulhai]([https://linkedin.com/in/muhammadabdulhai](https://www.linkedin.com/in/muhammad-abdul-hai-50344322a/) 
-
+🔗 **LinkedIn:** [linkedin.com/in/muhammadabdulhai](https://www.linkedin.com/in/muhammad-abdul-hai-50344322a/) 
 🐙 **GitHub:** [github.com/ABDULHAI10](https://github.com/ABDULHAI10)  
 ---
 ⭐ *“Turning data into meaningful insights and code into impactful solutions.”*  
