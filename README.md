@@ -38,7 +38,8 @@ I enjoy transforming complex datasets into **insightful dashboards** and buildin
 
 ### 📫 Contact  
 📧 **Email:** [muhammadabdulhai504@gmail.com](mailto:muhammadabdulhai504@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/muhammadabdulhai](https://linkedin.com/in/muhammadabdulhai) 
+🔗 **LinkedIn:** [linkedin.com/in/muhammadabdulhai]([https://linkedin.com/in/muhammadabdulhai](https://www.linkedin.com/in/muhammad-abdul-hai-50344322a/) 
+
 🐙 **GitHub:** [github.com/ABDULHAI10](https://github.com/ABDULHAI10)  
 ---
 ⭐ *“Turning data into meaningful insights and code into impactful solutions.”*  
