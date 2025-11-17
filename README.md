@@ -1,6 +1,9 @@
 👋 Hi, I’m @ABDULHAI10 (Muhammad Abdul Hai)
 
-💼 I’m a Software Engineer with experience in development.  
+I am a Software Engineer with 3+ years of experience in .NET, SQL Server, and enterprise systems, now transitioning into Data Analytics & AI. Skilled in Python, Power BI, SQL, EDA, ML, and building analytical dashboards.
+
+Developed 7+ analytics projects including HR Attrition, Retail Analytics, Healthcare Dashboard, and Flight Delay Analysis.
+
 📊 Currently expanding my skillset through a Data Analytics & Data Science Bootcamp (AtomCamp), focused on Python, Power BI, SQL, and Machine Learning.  
 🌍 Passionate about solving real-world problems with clean code and insightful dashboards.  
 🔧 Tools I work with: C#, ASP.NET, Blazor, SQL, Power BI, Python, Pandas, and Git.  
@@ -10,7 +13,7 @@
 
 # 👋 Hi there, I'm Muhammad Abdul Hai 🇨🇦  
 
-💻 **Software Engineer | Data Analyst | Power BI Developer**  
+💻 **Data Analyst | Python • SQL • Power BI • Machine Learning | 3+ Years IT Experience | .NET + SQL + Data Projects**  
 I'm a results-driven **Software Engineer** with hands-on experience in **.NET development** and a growing specialization in **Data Analytics & Data Science**.  
 Currently enrolled in AtomCamp’s **Data Science Bootcamp**, enhancing my skills in **Python, Power BI, SQL, and Machine Learning**.  
 I enjoy transforming complex datasets into **insightful dashboards** and building **efficient, scalable software solutions** that solve real-world business challenges.  
